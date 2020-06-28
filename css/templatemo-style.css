@@ -350,7 +350,7 @@ transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
 }
 /* contact section */
 #contact {
-	background: #f6f6f6 url('../images/contact-bg.jpg') 50% 0 repeat-y fixed;
+	background: #f6f6f6 url('../images/home_bg1.png') 50% 0 repeat-y fixed;
 	color: #ffffff;
 	padding-top: 100px;
 	padding-bottom: 80px;
